@@ -1,0 +1,25 @@
+button {
+    border: none;
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+    background: lightyellow;
+    cursor: pointer;
+    font-size: 4rem;
+    font-weight: 900;
+    margin: 15px;
+}
+.box {
+    background-color: aquamarine;
+    display: flex;
+    margin-top: 100px;
+    justify-content: center;
+}
+input {
+    text-align: center;
+    height: 150px;
+    width: 150px;
+    font-size: 4rem;
+    font-weight: 900;
+}
+
